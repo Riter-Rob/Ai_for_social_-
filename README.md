@@ -259,7 +259,3 @@ This fine-tunes `afro-xlmr-base` on the multilingual crisis dataset and saves th
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 ---
-
-<div align="center">
-  <em>Built with 💙 for Ethiopia and beyond — ለኢትዮጵያ እና ከዚያ ያለፈ</em>
-</div>
